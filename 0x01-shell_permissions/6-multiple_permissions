@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo 6444 hello
+chmod r- hello
